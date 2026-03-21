@@ -15,6 +15,7 @@ console.log("a ** b =", a **b);*/
 //unary operator
 /*let a = 5;
 let b = 2;
+abh
 
 console.log("a = ",a,"& b = ",b);
  
